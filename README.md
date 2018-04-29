@@ -1,2 +1,2 @@
-# brainfuck-compiler
-A simple C++ brainfuck compiler
+# brainfuck-interpreter
+Simple C++ brainfuck interpreter
